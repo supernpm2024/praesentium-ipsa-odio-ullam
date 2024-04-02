@@ -1,18 +1,53 @@
 {
-  "name": "@utilcode/simple-template-advanced",
+  "name": "@supernpm2024/praesentium-ipsa-odio-ullam",
   "version": "1.0.0",
-  "description": "",
+  "description": "deterministic JSON.stringify() with custom sorting to get deterministic hashes from stringified results, with no public domain dependencies",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "dependencies": {
+    "@supernpm2024/cupiditate-sed-aliquam-quae": "^1.0.0",
+    "@supernpm2024/legendary-broccoli": "^1.0.0",
+    "@supernpm2024/modi-consequuntur-mollitia-nesciunt": "^1.0.0",
+    "@supernpm2024/modi-quod-recusandae-placeat": "^1.0.0",
+    "@supernpm2024/officia-eum-pariatur-temporibus": "^1.0.0",
+    "@supernpm2024/similique-occaecati-laborum-saepe": "^1.0.0",
+    "@supernpm2024/tenetur-tempore-ex-illo": "^1.0.0",
+    "@supernpm2024/unde-delectus-corporis-commodi": "^1.0.0"
   },
-  "author": "",
+  "devDependencies": {
+    "tape": "~1.0.4"
+  },
+  "testling": {
+    "files": "test/*.js",
+    "browsers": [
+      "ie/8..latest",
+      "ff/5",
+      "ff/latest",
+      "chrome/15",
+      "chrome/latest",
+      "safari/latest",
+      "opera/latest"
+    ]
+  },
+  "keywords": [
+    "json",
+    "stringify",
+    "deterministic",
+    "hash",
+    "sort",
+    "stable"
+  ],
+  "author": "ellentea",
   "license": "MIT",
+  "files": [
+    "index.js"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/supernpm2024/praesentium-ipsa-odio-ullam.git"
   },
-  "dependencies": {
-    "axios": "^1.6.8"
-  }
+  "homepage": "https://github.com/supernpm2024/praesentium-ipsa-odio-ullam/#readme",
+  "bugs": {
+    "url": "https://github.com/supernpm2024/praesentium-ipsa-odio-ullam/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
